@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "walletprice", "walletprice\walletprice.csproj", "{BD1C2600-35CA-40FB-B539-AC485B655287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1C2600-35CA-40FB-B539-AC485B655287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1C2600-35CA-40FB-B539-AC485B655287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1C2600-35CA-40FB-B539-AC485B655287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1C2600-35CA-40FB-B539-AC485B655287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {278E44A5-5FD5-4A17-B76B-CE38F60264E1}
+	EndGlobalSection
+EndGlobal
